@@ -8,7 +8,14 @@ Valor de soma é 77.
 a)9 b)128 c)49
 
 ## Questão 3 
-Codigo está no arquivo questao3.ts
+Codigo está no arquivo questao3.ts, para rodar basta seguir as intruções abaixo.
+
+1 - Compilar o TypeScript para JavaScript:
+      
+      npx tsc questao3.ts
+2- Executar o JavaScript compilado:
+  
+      npm run questao3.js
 ## Questão 4
 
 ![image](https://github.com/user-attachments/assets/4e72703b-e8fe-49c0-bed3-523b82888f7c)
