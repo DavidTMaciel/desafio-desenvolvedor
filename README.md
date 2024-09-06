@@ -18,7 +18,8 @@ Codigo está no arquivo questao3.ts, para rodar basta seguir as intruções abai
       npm run questao3.js
 ## Questão 4
 
-![image](https://github.com/user-attachments/assets/4e72703b-e8fe-49c0-bed3-523b82888f7c)
+![image](https://github.com/user-attachments/assets/89c8bbfc-0435-4d68-a06a-b9b15f36c157)
+
 
 ### obs: SQL no arquivo questao4.sql
 
