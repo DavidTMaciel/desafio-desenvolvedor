@@ -1,11 +1,11 @@
 # desafio-desenvolvedor
-repositorio para testes
+Questinario
 
 ## Questão 1 
 Valor de soma é 77.
 
 ## Questão 2 
-a)9 b)128 c)49
+a)9 b)128 c)49 d)100 e)13 f)20
 
 ## Questão 3 
 Codigo está no arquivo questao3.ts, para rodar basta seguir as intruções abaixo.
@@ -24,4 +24,4 @@ Codigo está no arquivo questao3.ts, para rodar basta seguir as intruções abai
 
 ## Questão 5 
 Ambos estarão à mesma distância de Ribeirão Preto.
-explicação: Se eles estão no mesmo ponto da estrada, a distância de ambos até Ribeirão Preto será a mesma no momento exato em que eles se cruzam.
+- Explicação: Se eles estão no mesmo ponto da estrada, a distância de ambos até Ribeirão Preto será a mesma no momento exato em que eles se cruzam.
